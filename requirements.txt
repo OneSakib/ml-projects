@@ -8,3 +8,5 @@ nltk
 ipykernel
 torch
 scikit-learn
+tensorflow-hub
+setuptools<81

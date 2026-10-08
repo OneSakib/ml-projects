@@ -12,6 +12,9 @@ dependencies = [
     "pandas>=3.0.6",
     "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
+    "setuptools<81",
     "tensorflow>=2.21.0",
+    "tensorflow-hub>=0.16.1",
+    "torch>=2.14.1",
     "wordcloud>=1.9.6",
 ]
